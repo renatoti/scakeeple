@@ -1,0 +1,112 @@
+﻿@using GridMvc.Html
+@using GridMvc.Sorting
+
+@model IList<SchoolManager.Site.Domain.Models.College>
+
+@{
+    ViewBag.Title = "SCA - Escolas";
+}
+
+<div class="container">
+    <div class="panel panel-default">
+
+        <div class="panel-heading">
+            <span class="cad-title">Escolas</span>
+            <button type="button" class="btn btn-primary btn-sm pull-right btn-create" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-plus"></span>&nbsp;Adicionar</button>
+        </div>
+
+        <div class="panel-body">
+            @Html.Grid(Model).Columns(columns =>
+                {
+                    columns.Add(x => x.Name)
+                        .Titled("Nome")
+                        .SortInitialDirection(GridSortDirection.Descending)
+                        .SetWidth(110);
+
+                    columns.Add(x => x.Adress)
+                        .Titled("Endereço");
+
+                    /* Adicionando o botão de alteração */
+                    columns.Add()
+                        .Encoded(false)
+                        .Sanitized(false)
+                        .SetWidth(30)
+                        .RenderValueAs(d => @<button class="btn btn-default glyphicon glyphicon-pencil btn-edit" data-id="@d.ID" data-toggle="modal" data-target="#myModal"></button>);
+
+                    /* Adicionando o botão de exclusão */
+                    columns.Add()
+                        .Encoded(false)
+                        .Sanitized(false)
+                        .SetWidth(30)
+                        .RenderValueAs(d => @<button class="btn btn-danger glyphicon glyphicon-trash btn-delete" data-id="@d.ID" data-toggle="modal" data-target="#myModal"></button>);
+
+                }).WithPaging(10)
+        </div>
+    </div>
+</div>
+
+<div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div id="dialogDiv" class="modal-dialog">
+        <div id="dialogContent" class="modal-content">
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/schoolmanager")
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            $.ajaxSetup({ cache: false });
+
+            // Marca o item de menu como ativo
+            $('.navbar li.active').removeClass('active');
+            $('#menuEscolas').parent().addClass('active');
+
+            $('.btn-create').click(function (e) {
+                var url = "/College/Create";
+                $.get(url, function (data) {
+                    $('#dialogContent').html(data);
+                    $('#dialogDiv').modal('show');
+                    bindForm('#dialogDiv', '#dialogContent');
+                });
+            });
+
+            $('.btn-edit').click(function () {
+                var url = "/College/Edit";
+                var id = $(this).attr('data-id');
+                $.get(url + '/' + id, function (data) {
+                    $('#dialogContent').html(data);
+                    $('#dialogDiv').modal('show');
+                    bindForm('#dialogDiv', '#dialogContent');
+                });
+            });
+
+            $('.btn-delete').click(function () {
+                var dataConfirm = {
+                    Action: "Delete",
+                    Controller: "College",
+                    Id: $(this).attr('data-id'),
+                    Message: "Confirma a exclusão dessa escola?"
+                };
+
+                $.ajax({
+                    url: '@Url.Action("ConfirmModal")',
+                    type: 'POST',
+                    contentType: 'application/json;charset=utf-8',
+                    data: JSON.stringify(dataConfirm),
+                    success: function (data) {
+                        $('#dialogContent').html(data);
+                        $('#dialogDiv').modal('show');
+                        bindConfirm('#dialogDiv', '#dialogContent');
+                    }
+                });
+            });
+
+        });
+
+    </script>
+}

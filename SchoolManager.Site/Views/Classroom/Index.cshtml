@@ -1,0 +1,124 @@
+﻿@using GridMvc.Html
+@using GridMvc.Sorting
+
+@model IList<SchoolManager.Site.Domain.Models.Classroom>
+
+@{
+    ViewBag.Title = "SCA - Turmas";
+}
+
+<div class="container">
+    <div class="panel panel-default">
+
+        <div class="panel-heading">
+            <span class="cad-title">Turmas</span>
+            <button type="button" class="btn btn-primary btn-sm pull-right btn-create" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-plus"></span>&nbsp;Adicionar</button>
+        </div>
+
+        <div class="panel-body">
+            @Html.Grid(Model).Columns(columns =>
+                {
+                    columns.Add(o => o.College.Name)
+                        .Titled("Escola")
+                        .SortInitialDirection(GridSortDirection.Descending)
+                        .SetWidth(110);
+
+                    columns.Add(o => o.GraduationYear)
+                        .Titled("Ano");
+
+                    columns.Add(o => o.Students)
+                        .Titled("Estudantes");
+
+                    columns.Add(o => o.Coordinator)
+                        .Titled("Coordenador");
+
+                    columns.Add(o => o.Email)
+                        .Titled("Email");
+
+                    columns.Add(o => o.Period)
+                        .Titled("Período");
+
+                    /* Adicionando o botão de alteração */
+                    columns.Add()
+                        .Encoded(false)
+                        .Sanitized(false)
+                        .SetWidth(30)
+                        .RenderValueAs(d => @<button class="btn btn-default glyphicon glyphicon-pencil btn-edit" data-id="@d.ID" data-toggle="modal" data-target="#myModal"></button>);
+
+                    /* Adicionando o botão de exclusão */
+                    columns.Add()
+                        .Encoded(false)
+                        .Sanitized(false)
+                        .SetWidth(30)
+                        .RenderValueAs(d => @<button class="btn btn-danger glyphicon glyphicon-trash btn-delete" data-id="@d.ID" data-toggle="modal" data-target="#myModal"></button>);
+
+                }).WithPaging(10)
+        </div>
+    </div>
+</div>
+
+<div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div id="dialogDiv" class="modal-dialog">
+        <div id="dialogContent" class="modal-content">
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/schoolmanager")
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            $.ajaxSetup({ cache: false });
+
+            // Marca o item de menu como ativo
+            $('.navbar li.active').removeClass('active');
+            $('#menuTurmas').parent().addClass('active');
+
+            $('.btn-create').click(function () {
+                var url = "/Classroom/Create";
+                $.get(url, function (data) {
+                    $('#dialogContent').html(data);
+                    $('#dialogDiv').modal('show');
+                    bindForm('#dialogDiv', '#dialogContent');
+                });
+            });
+
+            $('.btn-edit').click(function () {
+                var url = "/Classroom/Edit";
+                var id = $(this).attr('data-id');
+                $.get(url + '/' + id, function (data) {
+                    $('#dialogContent').html(data);
+                    $('#dialogDiv').modal('show');
+                    bindForm('#dialogDiv', '#dialogContent');
+                });
+            });
+
+            $('.btn-delete').click(function () {
+                var dataConfirm = {
+                    Action: "Delete",
+                    Controller: "Classroom",
+                    Id: $(this).attr('data-id'),
+                    Message: "Confirma a exclusão dessa turma?"
+                };
+
+                $.ajax({
+                    url: '@Url.Action("ConfirmModal")',
+                    type: 'POST',
+                    contentType: 'application/json;charset=utf-8',
+                    data: JSON.stringify(dataConfirm),
+                    success: function (data) {
+                        $('#dialogContent').html(data);
+                        $('#dialogDiv').modal('show');
+                        bindConfirm('#dialogDiv', '#dialogContent');
+                    }
+                });
+            });
+
+        });
+
+    </script>
+}

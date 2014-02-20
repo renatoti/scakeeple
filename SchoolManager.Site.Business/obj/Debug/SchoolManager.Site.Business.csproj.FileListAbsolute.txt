@@ -1,0 +1,42 @@
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Business.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Business.pdb
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\obj\Debug\SchoolManager.Site.Business.csprojResolveAssemblyReference.cache
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\obj\Debug\SchoolManager.Site.Business.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\obj\Debug\SchoolManager.Site.Business.pdb
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\GenericUtilities.dll
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Data.dll
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.dll
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\GenericUtilities.pdb
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Data.pdb
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.xml
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Business.dll.config
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Business.dll.config
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Business.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Business.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\GenericUtilities.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\GenericUtilities.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\obj\Debug\SchoolManager.Site.Business.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\obj\Debug\SchoolManager.Site.Business.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\obj\Debug\SchoolManager.Site.Business.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\obj\Debug\SchoolManager.Site.Business.csprojResolveAssemblyReference.cache
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Business.dll.config
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Business.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Business.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\GenericUtilities.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Domain.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\GenericUtilities.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Domain.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\obj\Debug\SchoolManager.Site.Business.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Business\obj\Debug\SchoolManager.Site.Business.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Domain.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Business\bin\Debug\SchoolManager.Site.Domain.pdb

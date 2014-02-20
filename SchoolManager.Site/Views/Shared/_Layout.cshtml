@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/gridmvc")
+    @Styles.Render("~/Content/bootstrap")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    
+    <script type="text/javascript">
+        $(window).load(function () {
+            $('.loader').fadeOut('slow');
+        });
+
+        $(document).ready(function() {
+            $('nav .navbar-collapse a').on('click', function () {
+                $('.loader').fadeIn('slow');
+            });
+        });
+ 
+    </script>
+</head>
+    <body role="document">
+        <div class="loader"></div>
+        <header>
+            <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        @Html.ActionLink("SCA Running", "Index", "Home", null, new { @class = "navbar-brand" })
+                    </div>
+                    <nav class="collapse navbar-collapse" role="navigation">
+                        <ul class="nav navbar-nav">
+                            <li class="active">
+                                @Html.ActionLink("Escolas", "Index", "College", null, new { id = "menuEscolas" })
+                            </li>
+                            <li>
+                                @Html.ActionLink("Turmas", "Index", "Classroom", null, new { id = "menuTurmas" })
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </nav>
+        </header>
+        <div id="body">
+            @RenderSection("featured", required: false)
+            <section>
+                @RenderBody()
+            </section>
+        </div>
+    
+        <footer>
+        </footer>
+
+        @Scripts.Render("~/bundles/gridmvc")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

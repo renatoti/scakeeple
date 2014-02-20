@@ -1,0 +1,194 @@
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\obj\Debug\SchoolManager.Site.csprojResolveAssemblyReference.cache
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.pdb
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Antlr3.Runtime.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.AspNet.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.Core.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\EntityFramework.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Microsoft.Web.Infrastructure.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Newtonsoft.Json.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Net.Http.Formatting.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Helpers.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Http.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Http.WebHost.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Mvc.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Optimization.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Razor.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Deployment.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Razor.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\WebGrease.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\WebMatrix.Data.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\WebMatrix.WebData.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\EntityFramework.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Newtonsoft.Json.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Net.Http.Formatting.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Helpers.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Http.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Http.WebHost.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Mvc.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Razor.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Deployment.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Razor.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\WebMatrix.Data.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\WebMatrix.WebData.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.AspNet.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.Core.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\obj\Debug\SchoolManager.Site.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\obj\Debug\SchoolManager.Site.pdb
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\EntityFramework.SqlServer.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\EntityFramework.SqlServer.xml
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\GenericUtilities.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Business.dll
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\GenericUtilities.pdb
+c:\users\renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Business.pdb
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Data.dll
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Data.pdb
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\GridMvc.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Antlr3.Runtime.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.Core.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\EntityFramework.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\EntityFramework.SqlServer.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\GenericUtilities.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\GridMvc.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Newtonsoft.Json.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Business.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Data.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Net.Http.Formatting.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Helpers.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Http.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Http.WebHost.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Mvc.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Optimization.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Razor.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\WebGrease.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\WebMatrix.Data.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\WebMatrix.WebData.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\GenericUtilities.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Business.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Data.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\EntityFramework.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\EntityFramework.SqlServer.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Newtonsoft.Json.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Net.Http.Formatting.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Helpers.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Http.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Http.WebHost.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Mvc.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.Razor.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\WebMatrix.Data.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\WebMatrix.WebData.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.Core.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\obj\Debug\SchoolManager.Site.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\obj\Debug\SchoolManager.Site.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\obj\Debug\SchoolManager.Site.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Diagnostics.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SimpleInjector.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SimpleInjector.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Diagnostics.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\obj\Debug\SchoolManager.Site.csprojResolveAssemblyReference.cache
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\Antlr3.Runtime.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.AspNet.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.Core.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\EntityFramework.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\EntityFramework.SqlServer.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\GenericUtilities.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\GridMvc.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\Microsoft.Web.Infrastructure.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\Newtonsoft.Json.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Business.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Data.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Domain.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Diagnostics.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SimpleInjector.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Integration.Web.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Net.Http.Formatting.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Helpers.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Http.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Http.WebHost.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Mvc.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Optimization.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Razor.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Deployment.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Razor.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\WebGrease.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\WebMatrix.Data.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\WebMatrix.WebData.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\GenericUtilities.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Business.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Data.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Domain.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\EntityFramework.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\EntityFramework.SqlServer.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SimpleInjector.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Diagnostics.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Integration.Web.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\Newtonsoft.Json.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Net.Http.Formatting.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Helpers.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Http.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Http.WebHost.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Mvc.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.Razor.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Deployment.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\System.Web.WebPages.Razor.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\WebMatrix.Data.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\WebMatrix.WebData.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.AspNet.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.Core.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OAuth.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site\obj\Debug\SchoolManager.Site.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site\obj\Debug\SchoolManager.Site.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Domain.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site\bin\SchoolManager.Site.Domain.pdb

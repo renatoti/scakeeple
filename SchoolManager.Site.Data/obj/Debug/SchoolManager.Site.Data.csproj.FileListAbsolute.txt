@@ -1,0 +1,40 @@
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Data.dll.config
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Data.dll
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Data.pdb
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.dll
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.xml
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.dll
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.pdb
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.csprojResolveAssemblyReference.cache
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.Migrations.CriacaoBanco.resources
+C:\Users\Renato\documents\visual studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Data.dll.config
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Data.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Data.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.Migrations.CriacaoBanco.resources
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.csprojResolveAssemblyReference.cache
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Data.dll.config
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Data.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Data.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Domain.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Domain.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.csprojResolveAssemblyReference.cache
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.Migrations.CriacaoBanco.resources
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.csproj.GenerateResource.Cache
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Data\obj\Debug\SchoolManager.Site.Data.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Domain.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Data\bin\Debug\SchoolManager.Site.Domain.pdb

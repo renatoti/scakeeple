@@ -1,0 +1,12 @@
+﻿@model System.Web.Mvc.HandleErrorInfo
+
+@{
+    ViewBag.Title = "Erro";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+<hgroup class="panel-title">
+    <h1 class="ui-state-error-text">Erro</h1>
+    <h2 class="ui-state-error-text">Ocorreu um erro ao processar sua requisição</h2>
+    <h3 class="ui-state-error-text">@Model.Exception.Message</h3>
+</hgroup>

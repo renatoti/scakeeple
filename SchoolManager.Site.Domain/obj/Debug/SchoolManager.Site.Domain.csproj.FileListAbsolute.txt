@@ -1,0 +1,19 @@
+C:\VS 2012\SchoolManager\SchoolManager.Site.Domain\bin\Debug\SchoolManager.Site.Domain.dll.config
+C:\VS 2012\SchoolManager\SchoolManager.Site.Domain\bin\Debug\SchoolManager.Site.Domain.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Domain\bin\Debug\SchoolManager.Site.Domain.pdb
+C:\VS 2012\SchoolManager\SchoolManager.Site.Domain\bin\Debug\EntityFramework.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Domain\bin\Debug\EntityFramework.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\VS 2012\SchoolManager\SchoolManager.Site.Domain\obj\Debug\SchoolManager.Site.Domain.dll
+C:\VS 2012\SchoolManager\SchoolManager.Site.Domain\obj\Debug\SchoolManager.Site.Domain.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Domain\bin\Debug\SchoolManager.Site.Domain.dll.config
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Domain\bin\Debug\SchoolManager.Site.Domain.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Domain\bin\Debug\SchoolManager.Site.Domain.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Domain\obj\Debug\SchoolManager.Site.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Domain\obj\Debug\SchoolManager.Site.Domain.dll
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\SchoolManager\SchoolManager.Site.Domain\obj\Debug\SchoolManager.Site.Domain.pdb
