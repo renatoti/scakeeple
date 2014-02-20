@@ -14,13 +14,24 @@ footer
 }
 
 .loader {
-	position: fixed;
-	left: 0px;
-	top: 0px;
-	width: 100%;
-	height: 100%;
-	z-index: 9999;
-    background: url('../Images/page-loader.gif') 50% 50% no-repeat rgba(249, 249, 249, 0.9);
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../Images/page-loader.gif') 50% 50% no-repeat rgba(249, 249, 249, 0.8);
+}
+
+.ajax-loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../Images/ajax-loader.gif') 50% 50% no-repeat rgba(249, 249, 249, 0.8);
+    display: none;
 }
 
 .background-home
