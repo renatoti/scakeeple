@@ -1,13 +1,13 @@
 ﻿
 // Inicia o loader
 function startLoader() {
-    $('.loader').fadeTo(100, 0.4);
+    $('.ajax-loader').fadeTo(100, 0.4);
 }
 
 // Para o loading
 
 function stopLoader() {
-    $('.loader').fadeOut(100);
+    $('.ajax-loader').fadeOut(100);
 }
     
 // Ao clicar no botão Salvar, verifica se houve algum erro no ModelState e exibe o retorno com o erro
